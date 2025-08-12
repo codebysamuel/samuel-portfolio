@@ -40,7 +40,7 @@ export default function Navbar() {
               theme === "dark" ? "text-matrix-green" : "text-gray-800"
             }`}
           >
-            Samuel P | Frontend Developer
+            Samuel P. | Frontend Developer
           </a>
         </h1>
 
@@ -101,8 +101,9 @@ export default function Navbar() {
             </a>
           </li>
           <li>
+            {/* UPDATED RESUME FILENAME HERE */}
             <a
-              href="/Samuel-Peddakudala-Resume.pdf"
+              href="/SamuelP_Frontend_Resume.pdf"
               download
               className="flex items-center px-4 py-2 rounded-full font-semibold border-2 border-matrix-green text-matrix-green hover:bg-matrix-green hover:text-slate-950 transition-colors duration-300"
             >
@@ -217,8 +218,9 @@ export default function Navbar() {
             </a>
           </li>
           <li>
+            {/* UPDATED RESUME FILENAME HERE */}
             <a
-              href="/Samuel-Peddakudala-Resume.pdf"
+              href="/SamuelP_Frontend_Resume.pdf"
               download
               className="flex items-center px-4 py-2 rounded-full font-semibold border-2 border-matrix-green text-matrix-green hover:bg-matrix-green hover:text-slate-950 transition-colors duration-300"
             >
